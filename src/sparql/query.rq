@@ -1,0 +1,14 @@
+ PREFIX p: <http://hero.com>
+ PREFIX d: <http://hero.com/ns/data#>
+
+ SELECT ?NamaHero ?Role ?Hp ?Mana ?Offense ?Defense
+ WHERE
+ { 
+      ?s
+         d:NamaHero       ?NamaHero ;
+         d:Role           ?Role ;
+         d:Hp             ?Hp ;
+         d:Mana           ?Mana ;
+         d:Offense        ?Offense ;
+         d:Defense        ?Defense ;
+}

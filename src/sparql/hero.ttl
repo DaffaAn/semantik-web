@@ -1,0 +1,374 @@
+@prefix p: <http://hero.com> 
+@prefix d: <http://hero.com/ns/data#> 
+
+
+p:P01        d:NamaHero	        "Terizla" ; 
+             d:Role         	"fighter" ; 
+             d:Hp              "2728" ;    
+             d:Mana             "430";     
+             d:Offense                 "8.0";      
+             d:Defense             "7.0".     
+
+p:P02        d:NamaHero	        "Martis" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2738" ;
+             d:Mana             "0";
+             d:Offense                 "8.0";
+             d:Defense             "6.0".            
+
+p:P03        d:NamaHero	        "Grock" ;
+             d:Role         	"tank" ;
+             d:Hp              "2819" ;
+             d:Mana             "430";
+             d:Offense                 "5.0";
+             d:Defense             "8.0".            
+
+p:P04        d:NamaHero	        "Carmilla" ;
+             d:Role         	"support" ;
+             d:Hp              "2528" ;
+             d:Mana             "430";
+             d:Offense                 "5.0";
+             d:Defense             "5.0".
+
+p:P05        d:NamaHero	        "Irithel" ;
+             d:Role         	"marksman" ;
+             d:Hp              "2540" ;
+             d:Mana             "438";
+             d:Offense                 "5.0";
+             d:Defense             "5.0".
+             
+p:P06        d:NamaHero	        "Thamuz" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2758";
+             d:Mana             "0";
+             d:Offense                 "7.0";
+             d:Defense             "7.0".
+
+p:P07        d:NamaHero	        "Leomord" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2738" ;
+             d:Mana             "0";
+             d:Offense                 "8.0";
+             d:Defense             "6.0".
+
+p:P08        d:NamaHero	        "Lunox" ;
+             d:Role         	"mage" ;
+             d:Hp              "2521" ;
+             d:Mana             "540";
+             d:Offense                 "5.0";
+             d:Defense             "7.0".
+
+p:P09        d:NamaHero	        "Aurora" ;
+             d:Role         	"mage" ;
+             d:Hp              "2521" ;
+             d:Mana             "540";
+             d:Offense                 "6.0";
+             d:Defense             "8.0".
+
+p:P10        d:NamaHero	        "Minsitthar" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2831" ;
+             d:Mana             "380";
+             d:Offense                 "7.0";
+             d:Defense             "6.0".
+             
+p:P11        d:NamaHero	        "Alpha" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2646" ;
+             d:Mana             "453";
+             d:Offense                 "7.0";
+             d:Defense             "7.0".
+
+p:P12        d:NamaHero	        "Kimmy" ;
+             d:Role         	"marksman" ;
+             d:Hp              "2570" ;
+             d:Mana             "100";
+             d:Offense                 "7.0";
+             d:Defense             "5.0".
+
+p:P13        d:NamaHero	        "vexana" ;
+             d:Role         	"mage" ;
+             d:Hp              "2481" ;
+             d:Mana             "490";
+             d:Offense                 "5.0";
+             d:Defense             "4.0".
+
+p:P14        d:NamaHero	        "karrie" ;
+             d:Role         	"marksman" ;
+             d:Hp              "2570" ;
+             d:Mana             "440";
+             d:Offense                 "9.0";
+             d:Defense             "3.0".
+
+p:P15        d:NamaHero	        "ruby" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2859" ;
+             d:Mana             "430";
+             d:Offense                 "4.0";
+             d:Defense             "8.0".
+
+p:P16        d:NamaHero	        "belerick" ;
+             d:Role         	"tank" ;
+             d:Hp              "2719" ;
+             d:Mana             "450";
+             d:Offense                 "6.0";
+             d:Defense             "8.0".
+
+p:P17        d:NamaHero	        "lolita" ;
+             d:Role         	"tank" ;
+             d:Hp              "2759" ;
+             d:Mana             "450";
+             d:Offense                 "7.0";
+             d:Defense             "9.0".
+
+p:P18        d:NamaHero	        "akai" ;
+             d:Role         	"tank" ;
+             d:Hp              "2719" ;
+             d:Mana             "450";
+             d:Offense                 "6.0";
+             d:Defense             "9.0".
+
+p:P19        d:NamaHero	        "moskov" ;
+             d:Role         	"marksman" ;
+             d:Hp              "2460" ;
+             d:Mana             "420";
+             d:Offense                 "9.0";
+             d:Defense             "3.0".
+
+p:P20        d:NamaHero	        "freya" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2801" ;
+             d:Mana             "480";
+             d:Offense                 "8.0";
+             d:Defense             "7.0".
+
+p:P21        d:NamaHero	        "harith" ;
+             d:Role         	"mage" ;
+             d:Hp              "2701" ;
+             d:Mana             "490";
+             d:Offense                 "5.0";
+             d:Defense             "5.0".
+
+p:P22        d:NamaHero	        "x-borg" ;
+             d:Role         	"fighter" ;
+             d:Hp              "1138" ;
+             d:Mana             "0";
+             d:Offense                 "7.0";
+             d:Defense             "8.0".
+
+p:P23        d:NamaHero	        "dyroth" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2758" ;
+             d:Mana             "0";
+             d:Offense                 "9.0";
+             d:Defense             "4.0".
+
+p:P24        d:NamaHero	        "faramis" ;
+             d:Role         	"support" ;
+             d:Hp              "2543" ;
+             d:Mana             "500";
+             d:Offense                 "4.0";
+             d:Defense             "7.0".
+
+p:P25        d:NamaHero	        "hylos" ;
+             d:Role         	"tank" ;
+             d:Hp              "3309" ;
+             d:Mana             "450";
+             d:Offense                 "4.0";
+             d:Defense             "9.0".
+
+p:P26        d:NamaHero	        "clint" ;
+             d:Role         	"marksman" ;
+             d:Hp              "2530" ;
+             d:Mana             "450";
+             d:Offense                 "8.0";
+             d:Defense             "4.0".
+
+p:P27        d:NamaHero	        "lylia" ;
+             d:Role         	"mage" ;
+             d:Hp              "2501" ;
+             d:Mana             "500";
+             d:Offense                 "5.0";
+             d:Defense             "5.0".
+
+p:P28        d:NamaHero	        "gord" ;
+             d:Role         	"mage" ;
+             d:Hp              "2478" ;
+             d:Mana             "500";
+             d:Offense                 "5.0";
+             d:Defense             "4.0".
+
+p:P29        d:NamaHero	        "masha" ;
+             d:Role         	"fighter" ;
+             d:Hp              "1948" ;
+             d:Mana             "0";
+             d:Offense                 "8.0";
+             d:Defense             "7.0".
+
+p:P30        d:NamaHero	        "minotaur" ;
+             d:Role         	"tank" ;
+             d:Hp              "2709" ;
+             d:Mana             "450";
+             d:Offense                 "4.0";
+             d:Defense             "9.0".
+
+p:P31        d:NamaHero	        "cyclops" ;
+             d:Role         	"mage" ;
+             d:Hp              "2521" ;
+             d:Mana             "500";
+             d:Offense                 "4.0";
+             d:Defense             "4.0".
+
+p:P32        d:NamaHero	        "baxia" ;
+             d:Role         	"tank" ;
+             d:Hp              "2769" ;
+             d:Mana             "422";
+             d:Offense                 "7.0";
+             d:Defense             "9.0".
+
+p:P33        d:NamaHero	        "khaleed" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2779" ;
+             d:Mana             "0";
+             d:Offense                 "7.0";
+             d:Defense             "5.0".
+
+p:P34        d:NamaHero	        "bane" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2659" ;
+             d:Mana             "422";
+             d:Offense                 "7.0";
+             d:Defense             "9.0".
+
+p:P35        d:NamaHero	        "bruno" ;
+             d:Role         	"marksman" ;
+             d:Hp              "2430" ;
+             d:Mana             "450";
+             d:Offense                 "8.0";
+             d:Defense             "5.0".
+
+p:P36        d:NamaHero	        "kagura" ;
+             d:Role         	"mage" ;
+             d:Hp              "2431" ;
+             d:Mana             "519";
+             d:Offense                 "6.0";
+             d:Defense             "7.0".
+
+p:P37        d:NamaHero	        "kaja" ;
+             d:Role         	"mage" ;
+             d:Hp              "2521" ;
+             d:Mana             "500";
+             d:Offense                 "6.0";
+             d:Defense             "6.0".
+
+p:P38        d:NamaHero	        "popol and kupa" ;
+             d:Role         	"marksman" ;
+             d:Hp              "2225" ;
+             d:Mana             "450";
+             d:Offense                 "7.0";
+             d:Defense             "3.0".
+
+p:P39        d:NamaHero	        "argus" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2689" ;
+             d:Mana             "0";
+             d:Offense                 "6.0";
+             d:Defense             "3.0".
+
+p:P40        d:NamaHero	        "badang" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2779" ;
+             d:Mana             "0";
+             d:Offense                 "8.0";
+             d:Defense             "4.0".
+
+p:P41        d:NamaHero	        "lapu-lapu" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2862" ;
+             d:Mana             "0";
+             d:Offense                 "6.0";
+             d:Defense             "6.0".
+
+p:P42        d:NamaHero	        "hilda" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2789" ;
+             d:Mana             "0";
+             d:Offense                 "6.0";
+             d:Defense             "8.0".
+
+p:P43        d:NamaHero	        "roger" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2730" ;
+             d:Mana             "450";
+             d:Offense                 "7.0";
+             d:Defense             "5.0".
+
+p:P44        d:NamaHero	        "odette" ;
+             d:Role         	"mage" ;
+             d:Hp              "249" ;
+             d:Mana             "495";
+             d:Offense                 "4.0";
+             d:Defense             "4.0".
+
+p:P45        d:NamaHero	        "valir" ;
+             d:Role         	"mage" ;
+             d:Hp              "2516" ;
+             d:Mana             "485";
+             d:Offense                 "4.0";
+             d:Defense             "5.0".
+
+p:P46        d:NamaHero	        "granger" ;
+             d:Role         	"marksman" ;
+             d:Hp              "2490" ;
+             d:Mana             "0";
+             d:Offense                 "8.0";
+             d:Defense             "4.0".
+
+p:P47        d:NamaHero	        "estes" ;
+             d:Role         	"support" ;
+             d:Hp              "2221" ;
+             d:Mana             "500";
+             d:Offense                 "4.0";
+             d:Defense             "7.0".
+
+p:P48        d:NamaHero	        "alucard" ;
+             d:Role         	"fighter" ;
+             d:Hp              "2821" ;
+             d:Mana             "0";
+             d:Offense                 "8.0";
+             d:Defense             "5.0".
+
+p:P49        d:NamaHero	        "alice" ;
+             d:Role         	"mage" ;
+             d:Hp              "2573" ;
+             d:Mana             "493";
+             d:Offense                 "5.0";
+             d:Defense             "7.0".
+
+p:P50        d:NamaHero	        "rafaela" ;
+             d:Role         	"support" ;
+             d:Hp              "2441" ;
+             d:Mana             "500";
+             d:Offense                 "4.0";
+             d:Defense             "5.0".
+
+p:P51        d:NamaHero	        "kadita" ;
+             d:Role         	"mage" ;
+             d:Hp              "2516" ;
+             d:Mana             "485";
+             d:Offense                 "4.0";
+             d:Defense             "6.0".
+
+p:P52        d:NamaHero	        "eudora" ;
+             d:Role         	"mage" ;
+             d:Hp              "2254" ;
+             d:Mana             "468";
+             d:Offense                 "5.0";
+             d:Defense             "4.0".
+
+             
+
+
+
+             
+
